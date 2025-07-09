@@ -1,1 +1,2 @@
-# seattlehenna.github.io
+# SeattleHenna
+Learn henna art online with SeattleHenna.
